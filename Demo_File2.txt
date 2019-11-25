@@ -1,1 +1,3 @@
 From Server to Client.
+
+From server to Server only.
